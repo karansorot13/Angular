@@ -15,7 +15,7 @@ export class PocompComponent implements OnInit {
 "First Name" : "Elizabeth",
 "DOB" : "3/5/1934",
 "Status": "",
-"Dx Reveiw": "0"
+"Dx Reveiw": "10"
 }
   ]
 }
